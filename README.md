@@ -1,4 +1,9 @@
 # Ferns-and-Petals-FNP-Sales-Analysis-
+<p align="center">
+  <img src="Fnp_dashboard.png" alt="FNP Dashboard" width="600">
+</p>
+
+
 Detailed Project Summary
 📈 Project Objective:
 To analyze the sales data of Ferns and Petals (FNP) using Excel and create an interactive dashboard. The goal is to uncover trends in customer behavior, product performance, sales timing, and seasonal impacts to help improve business strategies.
