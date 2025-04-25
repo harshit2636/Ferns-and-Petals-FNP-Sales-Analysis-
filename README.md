@@ -1,6 +1,6 @@
 # Ferns-and-Petals-FNP-Sales-Analysis-
 <p align="center">
-  <img src="Fnp_Dashboard.png" alt="FNP Dashboard" width="600">
+  <img src="Fnp_Dashboard.png" alt="FNP Dashboard" width="900">
 </p>
 
 
